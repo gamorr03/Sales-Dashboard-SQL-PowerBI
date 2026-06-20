@@ -41,5 +41,5 @@ Developed a sales analytics solution using SQL and Power BI to analyze customer 
 ## Files Included
 
 - Sales_Dashboard.pbix
-- sales_database.sql
+- Sales_Database.sql
 - PowerBI_Dashboard_Preview.jpeg
