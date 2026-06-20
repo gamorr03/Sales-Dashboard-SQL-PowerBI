@@ -1,6 +1,6 @@
 # Sales Performance Dashboard
 
-<img src="PowerBI_Dashboard_Preview.png" width="900">
+<img src="PowerBI_Dashboard_Preview.jpeg" width="900">
 
 ## Project Summary
 
@@ -42,4 +42,4 @@ Developed a sales analytics solution using SQL and Power BI to analyze customer 
 
 - Sales_Dashboard.pbix
 - sales_database.sql
-- PowerBI_Dashboard_Preview.png
+- PowerBI_Dashboard_Preview.jpeg
